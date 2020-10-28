@@ -1,0 +1,23 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+
+nav{
+  background: #E69C9D;
+  color:black;
+;
+}
+div ul li a {
+  color:black; 
+
+ 
+}
+
+div ul li a:hover{
+
+ background: #EA5B6A;
+ border-radius:10px;
+}
+
+
+
+/*E69C9D*/
