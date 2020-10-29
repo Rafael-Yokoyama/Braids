@@ -4,20 +4,45 @@
 nav{
   background: #E69C9D;
   color:black;
-;
 }
 div ul li a {
   color:black; 
-
- 
 }
 
 div ul li a:hover{
 
  background: #EA5B6A;
- border-radius:10px;
+
 }
 
+#sobre{
+  background:#FBECD5;
+  color:black;
 
+  padding: 40px;
+}
+#sobre h1 {
+  opacity: 0.4;
+
+  color:#EA5B6A 
+}
+.p-final-sobre{
+  color:#EA5B6A ;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+
+#designer{
+  background:black;
+  color: white;
+  margin:0;
+}
+
+footer{
+  margin-top: -16px;
+  padding-bottom: 43px;
+  background:black;
+}
 
 /*E69C9D*/
