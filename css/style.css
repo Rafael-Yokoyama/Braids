@@ -23,7 +23,7 @@ div ul li a:hover{
 }
 #sobre h1 {
   opacity: 0.4;
-
+  font-size: 30px;
   color:#EA5B6A 
 }
 .p-final-sobre{
@@ -34,9 +34,38 @@ div ul li a:hover{
 }
 
 #designer{
-  background:black;
+  padding: 40px;
+ 
+  background:#f4c3c6 ;
   color: white;
   margin:0;
+}
+h1{
+  font-size: 30px;
+  font-weight: bold;
+  opacity: 0.4;
+  color:#EA5B6A ;
+
+}
+.img-meio{
+  padding-top: 5px;
+
+}
+.p-img-meio {
+  padding-top:0px;
+
+
+}
+.pb-img-meio {
+  padding-top:30px;
+
+
+}
+
+#braids{
+  padding: 40px;
+  background:#eb6f63 ;
+  height: 90px;
 }
 
 footer{
@@ -45,4 +74,4 @@ footer{
   background:black;
 }
 
-/*E69C9D*/
+/*E69C9D    e28ab4      d96b78   d54255    eb6f63*/
