@@ -37,7 +37,7 @@ div ul li a:hover{
   padding: 40px;
  
   background:#f4c3c6 ;
-  color: white;
+  color: black;
   margin:0;
 }
 h1{
@@ -69,6 +69,16 @@ h1{
 }
 #braids p{
   margin-top:120px;
+}
+#extensao{
+  padding: 40px;
+  background:#e28ab4  ;
+  color:#f4c3c6 ;
+}
+
+#extensao h1{
+
+  color:white ;
 }
 
 
@@ -113,3 +123,25 @@ margin-top:-65px;
 
 
 /*E69C9D    e28ab4      d96b78   d54255    eb6f63*/
+
+
+
+
+/* Rolagem da Vertical da Página */
+::-webkit-scrollbar-thumb:vertical {
+background: pink; 
+height:20px;
+border-radius: 20px;
+-moz-border-radius: 20px;
+-webkit-border-radius: 20px;
+}
+
+
+
+/* Parte fixa da rolagem (fundo que não se move) */
+::-webkit-scrollbar {
+height:10px;
+width:10px; 
+ background: ##FFFFF0; 
+
+}
