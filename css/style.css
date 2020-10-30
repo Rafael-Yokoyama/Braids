@@ -65,13 +65,51 @@ h1{
 #braids{
   padding: 40px;
   background:#eb6f63 ;
-  height: 90px;
+
+}
+#braids p{
+  margin-top:120px;
 }
 
+
 footer{
-  margin-top: -16px;
-  padding-bottom: 43px;
+
+ 
   background:black;
 }
+.icones{
+
+margin-top:-65px;
+
+
+}
+
+.atribuicao{
+
+  color:white;
+  font-size:10px;
+}
+.atribuicao a {
+
+
+  color:pink;
+
+}
+.desenvolvedor{
+  color:white;
+}
+.desenvolvedor span{
+  margin-left:12px;
+}
+.desenvolvedor a{
+  text-decoration: none;
+
+
+  cursor:pointer;
+
+  color:pink;
+ 
+}
+
 
 /*E69C9D    e28ab4      d96b78   d54255    eb6f63*/
