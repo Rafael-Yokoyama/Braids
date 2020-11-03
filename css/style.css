@@ -39,6 +39,7 @@ div ul li a:hover{
   font-style: italic;
   font-size:18px;
   padding: 40px;
+ 
 
   background:#f4c3c6 ;
   color: black;
@@ -86,6 +87,7 @@ h1{
    color:#f4c3c6 ;
    }
 #extensao{
+ 
   padding: 40px;
   background:#e28ab4  ;
   color:#f4c3c6 ;
@@ -96,7 +98,57 @@ h1{
 
   color:white ;
 }
+#servicos{
+  padding:40px;
+  background:#fce4ec;
+  
+}
+#servicos h2 {
+  font-size:19px;
+  color:#B724B9;
+  font-weight:bold;
+  
+  
+ 
+  
+}
 
+.atendimento-servico{
+  border-left: 1px solid #B724B9;
+  border-right: 1px solid #B724B9;
+
+ 
+
+}
+.atendimento-servico-s{
+  color:#B724B9;
+  border-left: 1px solid #B724B9;
+  border-right: 1px solid #B724B9;
+ 
+
+}
+
+.atendimento-servico p{
+  color:#B724B9;
+}
+.atendimento-servico p a {
+  font-weight: bold;
+  text-decoration:none;
+  color:white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  background:#B724B9;
+  padding:6px;
+  
+
+}
+.atendimento-servico p a:hover{
+  background:white;
+  color:#B724B9;
+  opacity: 1;
+
+}
 
 
 footer{
@@ -139,6 +191,8 @@ margin-top:-65px;
 }
 
 
+
+
 /*E69C9D    e28ab4      d96b78   d54255    eb6f63*/
 
 
@@ -152,7 +206,6 @@ border-radius: 20px;
 -moz-border-radius: 20px;
 -webkit-border-radius: 20px;
 }
-
 
 
 /* Parte fixa da rolagem (fundo que não se move) */
