@@ -157,8 +157,9 @@ footer{
   background:black;
 }
 .icones{
+margin-top:-20px;
 
-margin-top:-65px;
+
 
 
 }
@@ -177,9 +178,7 @@ margin-top:-65px;
 .desenvolvedor{
   color:white;
 }
-.desenvolvedor span{
-  margin-left:12px;
-}
+
 .desenvolvedor a{
   text-decoration: none;
 
