@@ -149,6 +149,21 @@ h1{
   opacity: 1;
 
 }
+.horarios{
+ background: #3d3837;
+ 
+}
+.horarios h2{
+color: white;
+  
+ }
+ .horarios p{
+  color: white;
+  opacity: 0.8;
+    
+   }
+ 
+
 
 
 footer{
